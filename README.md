@@ -94,4 +94,4 @@ Touchscreen overlay controls are mapped to the on-screen display:
 
 # Credits
 
-[ozkl - doomgeneric](https://github.com/ozkl/doomgeneric/)
+[ozkl](https://github.com/ozkl/) - [doomgeneric](https://github.com/ozkl/doomgeneric/)
