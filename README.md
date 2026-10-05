@@ -89,8 +89,20 @@ Touchscreen overlay controls are mapped to the on-screen display:
 | **TR** | Turn Right |
 | **FIRE** | Shoot (Ctrl) |
 | **USE** | Open doors / Activate switches (Spacebar) |
+| **Y** | Press Y |
+| **N** | Press N |
+| **1** | Press 1 |
+| **2** | Press 2 |
+| **3** | Press 3 |
+| **4** | Press 4 |
+| **5** | Press 5 |
+| **6** | Press 6 |
 
 > **Note**: To restore the printer's default touch interface after quitting, simply reboot the machine via `reboot` or restart the GUI daemon.
+
+# Bugs
+
+**Can't name the save:** Buttons 1-6 don't work to name the save.
 
 # Credits
 
