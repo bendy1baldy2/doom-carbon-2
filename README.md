@@ -91,3 +91,7 @@ Touchscreen overlay controls are mapped to the on-screen display:
 | **USE** | Open doors / Activate switches (Spacebar) |
 
 > **Note**: To restore the printer's default touch interface after quitting, simply reboot the machine via `reboot` or restart the GUI daemon.
+
+# Credits
+
+[ozkl - doomgeneric](https://github.com/ozkl/doomgeneric/)
