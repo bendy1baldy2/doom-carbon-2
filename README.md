@@ -73,7 +73,7 @@ cd /opt/bin
 
 ```
 
-# Controls
+## Controls
 
 Touchscreen overlay controls are mapped to the on-screen display:
 
@@ -100,10 +100,17 @@ Touchscreen overlay controls are mapped to the on-screen display:
 
 > **Note**: To restore the printer's default touch interface after quitting, simply reboot the machine via `reboot` or restart the GUI daemon.
 
-# Bugs
+## Bugs
 
 **Can't name the save:** Buttons 1-6 don't work to name the save.
 
-# Credits
+## Credits
 
-[ozkl](https://github.com/ozkl/) - [doomgeneric](https://github.com/ozkl/doomgeneric/)
+- **[ozkl](https://github.com/ozkl/)** - **[doomgeneric](https://github.com/ozkl/doomgeneric/)**
+
+## License & Attribution
+
+- **Engine:** Licensed under the [GNU General Public License v2.0 (GPL-2.0)](LICENSE).
+- **Media Credit:** If you showcase, test, or feature this port in a video, article, or social media post, please link back and credit:
+  - Port: **[bendy1baldy2](https://github.com/bendy1baldy2)** - **[doom-carbon-2](https://github.com/bendy1baldy2/doom-carbon-2)**
+  - Base: **[ozkl](https://github.com/ozkl/)** - **[doomgeneric](https://github.com/ozkl/doomgeneric/)**
