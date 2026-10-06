@@ -106,6 +106,7 @@ Touchscreen overlay controls are mapped to the on-screen display:
 
 ## Credits
 
+- **id Software** – Original creators of DOOM (John Carmack, John Romero, Adrian Carmack, Kevin Cloud, Sandy Petersen, Dave Taylor)
 - **[ozkl](https://github.com/ozkl/)** - **[doomgeneric](https://github.com/ozkl/doomgeneric/)**
 
 ## License & Attribution
